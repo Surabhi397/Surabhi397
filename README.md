@@ -1,24 +1,70 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Surabhi%20Jain&fontSize=70)
 
-# Hi there 👋 I'm **Surabhi Jain**!!
+# 👋 Hi, I'm Surabhi Jain
 
-> "Bridging the gap between biological data and computational intelligence."
+**Bioinformatics Researcher | Integrated NGS Workflows | Transcriptomics | Oncology | AMR**
 
-## About Me:  
-I am a **_Bioinformatics Data Analyst_** specializing in **Integrated NGS Workflows (WGS & RNA-Seq)**. I am passionate about **NGS pipeline development and AI-driven healthcare solutions**.  
-🔭 **Currently Co-Leading:** Research into Non-Coding Cancer Driver Mutations, where we analyze publicly available high-depth WGS and RNA-seq datasets to bridge the gap between genomic regulatory variants and oncogenic behavior.  
+### 🔬 About Me
+I am a **Bioinformatics Researcher** specializing in **WGS and RNA-Seq analysis**. My work bridges the gap between raw genomic data and biological insights, with a focus on cancer regulatory variants and antimicrobial resistance.
+- 🔭 **Currently Co-Leading:** Research on **Non-Coding Cancer Driver Mutations** to bridge the gap between regulatory variants and oncogenic behavior.
+- 🧪 **Wet-Lab Foundation:** Bringing a strong background in Biotechnology (MSc) and Nanotechnology to ensure all computational outputs make **biological sense**.
+- 🧠 **Core Philosophy:** "Bioinformatics is data + curiosity + a healthy dose of scientific paranoia."
 
-## **Skills & Tools**  
-🔹 **Programming & Scripting:** Python, R, Bash & Shell scripting  
-🔹 **NGS & Omics Pipelines:** Variant Discovery (WGS, RNA-Seq), Variant Calling (SAMtools), Functional Annotation   
-🔹 **Bioinformatics Analysis:** Differential Gene Expression (edgeR), AMR Gene Identification   
-🔹 **Standard Tools:** HISAT2, FeatureCounts, FastQC, Trimmomatic, Prokka, Galaxy   
-🔹 **Data Science & Visualization:** Pandas, NumPy, Matplotlib   
-🔹 **Version Control:** Git, GitHub   
+### 🧠 Top Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
 
-## **Connect With Me**  
-📌 **GitHub** (https://github.com/Surabhi397)  
-📌 **LinkedIn** (https://www.linkedin.com/surabhi-jain-bio/)
+### 🧬 Bioinformatics Expertise
+- **Transcriptomics:** RNA-Seq, Differential Gene Expression (edgeR, DESeq2), Pathway Enrichment (DAVID, GO, KEGG)
+- **Genomics:** WGS & WES, Variant Calling (GATK, SAMtools, BWA), Variant Prioritization (VEP, ClinVar, dbSNP)
+- **Clinical Annotation:** Functional impact prediction using gnomAD
+- **Microbial Genomics:** AMR Gene Identification (CARD, ResFinder, AMRFinderPlus), Bacterial Genome Annotation (Prokka)
+- **Quality Control:** High-stringency preprocessing (FastQC, Trimmomatic, fastP)
+
+### ⚙️ Workflow Automation & Environments
+- **Linux/Unix:** PuTTY, SSH, command-line workflows
+- **Environments:** Conda / Bioconda
+- **Platform:** Galaxy Server
+- **Pipelines:** Reproducible multi-omics workflows & Shell scripting
+
+### 🤖 Machine Learning & Statistics
+- **R Statistics:** Multivariate analysis, PCA, Clustering
+- **Data Wrangling:** Pandas, NumPy
+
+### 🗂️ Version Control
+**Git | GitHub**
+
+### 🎨 Visualization & Scientific Design
+- **R (ggplot2):** Publication-quality Volcano plots, Heatmaps, and PCA plots
+- **Python:** Matplotlib, Seaborn
+- **Genomic Viewers:** IGV (Integrative Genomics Viewer) for manual variant validation
+
+### 💻 Operating Systems
+**Linux (Ubuntu/CentOS) | Windows 🐧🪟**
+
+### 👨‍🏫 Professional Day-to-Day Workflow
+
+**🧬 Bioinformatics Strategy & QC**
+- Designing standardized NGS analysis pipelines
+- **Manual Sanity Checks:** Validating automated variant calls in IGV to eliminate PCR bias/mapping errors
+- Ensuring 95%+ data quality through iterative preprocessing
+
+**✍️ Scientific Writing & Communication**
+- Translating complex genomic findings into actionable reports
+- Documenting workflows for reproducibility
+- Creating high-fidelity visualizations for research insights
+
+**📁 Project Management**
+- Managing large-scale NCBI/public datasets
+- Troubleshooting command-line tool dependencies
+- Maintaining project documentation and version control
+
+### 📫 Connect With Me
+- **LinkedIn:** [surabhi-jain-bio](https://www.linkedin.com/in/surabhi-jain-bio/)
+- **GitHub:** [Surabhi397](https://github.com/Surabhi397)
 
 ### **Contributions & Collaboration**  
 I’m open to collaboration on computational biology and bioinformatics projects.
